@@ -2,7 +2,7 @@
 
 ###########################################################
 ###  title    : SNPfilter4ML.py                         ###
-###  author	  : Holly Ruess (Holly.Ruess@ars.usda.gov)  ###
+###  author   : Holly Ruess (Holly.Ruess@ars.usda.gov)  ###
 ###  date     : 02-28-2018                              ###
 ###  version  : 1                                       ###
 ###  usage    : ./SNPfilter4ML.py input.vcf >output.vcf ###
