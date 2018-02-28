@@ -2,7 +2,7 @@
 
 ################################################################### 
 ###  title    : NexusTree2Newick.py                             ###
-###  author	  : Holly Ruess (Holly.Ruess@ars.usda.gov)          ###
+###  author   : Holly Ruess (Holly.Ruess@ars.usda.gov)          ###
 ###  date     : 02-28-2018                                      ###
 ###  version  : 1                                               ###
 ###  usage    : ./NexusTree2Newick.py input.tree >output.newick ###
