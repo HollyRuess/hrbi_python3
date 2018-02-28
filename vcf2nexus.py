@@ -2,7 +2,7 @@
 
 ########################################################## 
 ###  title    : vcf2nexus.py                           ###
-###  author	  : Holly Ruess (Holly.Ruess@ars.usda.gov) ###
+###  author   : Holly Ruess (Holly.Ruess@ars.usda.gov) ###
 ###  date     : 02-28-2018                             ###
 ###  version  : 1                                      ###
 ###  usage    : ./vcf2nexus.py  input.vcf >output.nex  ###
