@@ -2,7 +2,7 @@
 
 ###############################################################
 ###  title    : SNPcoverage.py                              ###
-###  author	  : Holly Ruess (Holly.Ruess@ars.usda.gov)      ###
+###  author   : Holly Ruess (Holly.Ruess@ars.usda.gov)      ###
 ###  date     : 02-28-2018                                  ###
 ###  version  : 1                                           ###
 ###  usage    : ./SNPcoverage.py input.vcf >SNPcoverage.txt ###
