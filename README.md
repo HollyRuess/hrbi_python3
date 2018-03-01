@@ -16,3 +16,9 @@ This python3 program finds the average coverage of the SNPs for each accession (
 
 # NexusTree2Newick.py
 This python 3 program converts the *.tree file from SVDQuartets (PAUP) to newick file that is readable by figtree.
+
+# vcf2STRUCTURE_reorder.py
+This python3 program converts a vcf file (created by tassel5 and filtered by vcftools) into a Structure format 
+(STRUCTURE 2 line format, A=1,C=2,G=3,T=4,missing=-9). vcf can be compressed. Reorder file is optional, and is a list of 
+accessions from the (#CHROM line in the vcf file) in the order that you want the structure output in (i.e. tree order, 
+group order, etc.).
