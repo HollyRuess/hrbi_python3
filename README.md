@@ -22,3 +22,7 @@ This python3 program converts a vcf file (created by tassel5 and filtered by vcf
 (STRUCTURE 2 line format, A=1,C=2,G=3,T=4,missing=-9). vcf can be compressed. Reorder file is optional, and is a list of 
 accessions from the (#CHROM line in the vcf file) in the order that you want the structure output in (i.e. tree order, 
 group order, etc.).
+
+# haplotype_count.py
+This python3 program counts the number of times each haplotype appears in vcf file (per accession). 
+Haplotypes are ./., 0/0, 0/1, 1/0, 1/1, or other. VCF file can be compressed or uncompressed.
